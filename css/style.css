@@ -90,6 +90,7 @@ body {
 
 .card-image:hover .overlay {
   opacity: 1;
+  cursor: pointer;
 }
 
 .card img {
@@ -106,6 +107,7 @@ body {
 
 .card h2:hover {
   color: var(--clr-cyan);
+  cursor: pointer;
 }
 
 .card p {
@@ -173,6 +175,7 @@ hr {
 
 .profile .name:hover {
   color: var(--clr-cyan);
+  cursor: pointer;
 }
 
 @media screen and (min-width: 48rem) {
